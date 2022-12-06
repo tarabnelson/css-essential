@@ -14,6 +14,17 @@ body {
 img {
     width: 300px;
 }
+a {
+    color: #15b9ff;
+}
+
+.projects a {
+    color: red;
+}
+
+a:hover {
+    text-decoration: none;
+}
 
 /* Profiles
 -----------------------------------*/
