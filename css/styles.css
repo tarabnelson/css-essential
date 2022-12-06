@@ -19,17 +19,22 @@ img {
 -----------------------------------*/
 header {
     background-color: #3f2a2b;
+    color: #fff;
 }
 
 
 /* Projects
 -----------------------------------*/
-
+.projects {
+    background-color: #b5bec6;
+}
 
 
 /* Work Experience
 -----------------------------------*/
-
+.work-experience {
+    background-color: #b2ffa9;
+}
 
 
 /* Education
@@ -39,3 +44,8 @@ header {
 
 /* Contact Info
 -----------------------------------*/
+
+footer {
+   background-color: #3f2a2b;
+   color: #fff;
+}
