@@ -18,10 +18,6 @@ a {
     color: #15b9ff;
 }
 
-.projects a {
-    color: red;
-}
-
 a:hover {
     text-decoration: none;
 }
@@ -38,6 +34,13 @@ header {
 -----------------------------------*/
 .projects {
     background-color: #b5bec6;
+}
+
+.projects a {
+    color: red;
+    background-color: white;
+    padding: 8px;
+    border-radius: 4px;
 }
 
 
