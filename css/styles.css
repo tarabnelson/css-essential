@@ -8,6 +8,14 @@
 
 /* Global styles
 -----------------------------------*/
+
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
 body {
     color: #1c2321;
     margin: 0;
